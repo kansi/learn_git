@@ -9,3 +9,4 @@
 ** git commit -m "you message"
 ** git reset HEAD -- /path/to/file
    Unstage file
+** git log (summary of the commits)
