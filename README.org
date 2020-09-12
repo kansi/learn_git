@@ -4,7 +4,12 @@
 * Git
 ** git init
    Make the given directory a git repo
-** git remote add [name of remote] [ssh or http uri]
+** git remote
+*** git remote add [name of remote] [ssh or http uri]
+*** git remote rm [remote_name]
+    eg: ~git remote rm origin~
+*** git remote -v (list remotes)
+
 ** git add [filename1, filename2 ...]
 ** git commit -m "you message"
 ** git reset HEAD -- /path/to/file
