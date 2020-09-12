@@ -10,3 +10,4 @@
 ** git reset HEAD -- /path/to/file
    Unstage file
 ** git log (summary of the commits)
+** git reset --soft HEAD~ (remove current commit and move change to staging area)
