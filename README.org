@@ -18,3 +18,5 @@
 ** git reset --soft HEAD~ (remove current commit and move change to staging area)
 
 ** TODO learn git fetch 
+** git stash (stash your UNCOMMITED changes)
+
