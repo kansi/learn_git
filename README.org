@@ -1,0 +1,11 @@
+#+title Git Tutorial
+#+author Vanshdeep Singh<kansi13@gmail.com>
+
+* Git
+** git init
+   Make the given directory a git repo
+** git remote add [name of remote] [ssh or http uri]
+** git add [filename1, filename2 ...]
+** git commit -m "you message"
+** git reset HEAD -- /path/to/file
+   Unstage file
